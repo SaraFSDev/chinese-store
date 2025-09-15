@@ -1,0 +1,77 @@
+<!-- 
+   <mat-card>
+    <h2>פרטי תשלום</h2>
+    <form [formGroup]="paymentForm" (ngSubmit)="onSubmit()">
+      <mat-form-field appearance="fill">
+        <mat-label>שם בעל הכרטיס</mat-label>
+        <input matInput formControlName="cardHolder" required />
+      </mat-form-field>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>מספר כרטיס אשראי</mat-label>
+        <input matInput formControlName="cardNumber" type="text" required />
+      </mat-form-field>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>תאריך תפוגה</mat-label>
+        <input matInput [matDatepicker]="picker" formControlName="expirationDate" required />
+        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker startView="multi-year" panelClass="month-year-picker"></mat-datepicker>
+      </mat-form-field>
+  
+  
+      <mat-form-field appearance="fill">
+        <mat-label>קוד אבטחה (CVV)</mat-label>
+        <input matInput formControlName="cvv" type="text" required />
+      </mat-form-field>
+  
+      <button mat-raised-button color="primary" type="submit" [disabled]="paymentForm.invalid">שלח</button>
+    </form>
+  </mat-card>
+   -->
+   <div class="container">
+    <form [formGroup]="paymentForm" (ngSubmit)="onSubmit()">
+      <h3>טופס תשלום</h3>
+      <mat-form-field appearance="fill">
+        <mat-label>שם בעל הכרטיס</mat-label>
+        <input matInput formControlName="cardholderName" required />
+        <mat-error *ngIf="paymentForm.get('cardholderName')?.hasError('required')">הכנס שם בעל הכרטיס</mat-error>
+      </mat-form-field>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>מספר כרטיס אשראי</mat-label>
+        <input matInput formControlName="cardNumber" required />
+        <mat-error *ngIf="paymentForm.get('cardNumber')?.hasError('required')">הכנס מספר כרטיס אשראי</mat-error>
+        <mat-error *ngIf="paymentForm.get('cardNumber')?.hasError('pattern')">מספר כרטיס לא תקין</mat-error>
+      </mat-form-field>
+  
+      <!-- שדה תוקף הכרטיס עם Datepicker, חודש ושנה בלבד -->
+      <mat-form-field appearance="fill">
+        <mat-label>Month and Year</mat-label>
+        <input matInput [matDatepicker]="dp" formControlName="expirationDate" required />
+        <mat-hint>MM/YYYY</mat-hint>
+        <mat-datepicker-toggle matIconSuffix [for]="dp"></mat-datepicker-toggle>
+        <mat-datepicker #dp startView="multi-year" (monthSelected)="setMonthAndYear($event, dp)" panelClass="example-month-picker"></mat-datepicker>
+        <mat-error *ngIf="paymentForm.get('expirationDate')?.hasError('required')">הכנס תוקף כרטיס</mat-error>
+        <mat-error *ngIf="paymentForm.get('expirationDate')?.hasError('pattern')">תוקף לא תקין</mat-error>
+      </mat-form-field>
+  
+      <mat-form-field appearance="fill">
+        <mat-label>CVV</mat-label>
+        <input matInput formControlName="cvv" required />
+        <mat-error *ngIf="paymentForm.get('cvv')?.hasError('required')">הכנס את ה-CVV</mat-error>
+        <mat-error *ngIf="paymentForm.get('cvv')?.hasError('pattern')">CVV לא תקין</mat-error>
+      </mat-form-field>
+  
+      <button mat-raised-button color="primary" type="submit" [disabled]="paymentForm.invalid" >שלח</button>
+      <!-- [disabled]="paymentForm.invalid" -->
+  
+      <div class="footer">
+      </div>
+    </form>
+  </div>
+  
+  
+  
+  
+  

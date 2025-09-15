@@ -1,0 +1,1653 @@
+G:\server\project\bin\Debug\net8.0\appsettings.Development.json
+G:\server\project\bin\Debug\net8.0\appsettings.json
+G:\server\project\bin\Debug\net8.0\project.exe
+G:\server\project\bin\Debug\net8.0\project.deps.json
+G:\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+G:\server\project\bin\Debug\net8.0\project.dll
+G:\server\project\bin\Debug\net8.0\project.pdb
+G:\server\project\bin\Debug\net8.0\Azure.Core.dll
+G:\server\project\bin\Debug\net8.0\Azure.Identity.dll
+G:\server\project\bin\Debug\net8.0\Humanizer.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\server\project\bin\Debug\net8.0\System.ClientModel.dll
+G:\server\project\bin\Debug\net8.0\System.CodeDom.dll
+G:\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+G:\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+G:\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+G:\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+G:\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+G:\server\project\bin\Debug\net8.0\System.Text.Json.dll
+G:\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+G:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+G:\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+G:\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+G:\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+G:\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+G:\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+G:\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+G:\server\project\obj\Debug\net8.0\staticwebassets.build.json
+G:\server\project\obj\Debug\net8.0\staticwebassets.development.json
+G:\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+G:\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+G:\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+G:\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+G:\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+G:\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+G:\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+G:\server\project\obj\Debug\net8.0\project.dll
+G:\server\project\obj\Debug\net8.0\refint\project.dll
+G:\server\project\obj\Debug\net8.0\project.pdb
+G:\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+G:\server\project\obj\Debug\net8.0\ref\project.dll
+E:\server\project\bin\Debug\net8.0\appsettings.Development.json
+E:\server\project\bin\Debug\net8.0\appsettings.json
+E:\server\project\bin\Debug\net8.0\project.exe
+E:\server\project\bin\Debug\net8.0\project.deps.json
+E:\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+E:\server\project\bin\Debug\net8.0\project.dll
+E:\server\project\bin\Debug\net8.0\project.pdb
+E:\server\project\bin\Debug\net8.0\AutoMapper.dll
+E:\server\project\bin\Debug\net8.0\Azure.Core.dll
+E:\server\project\bin\Debug\net8.0\Azure.Identity.dll
+E:\server\project\bin\Debug\net8.0\Humanizer.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\server\project\bin\Debug\net8.0\System.ClientModel.dll
+E:\server\project\bin\Debug\net8.0\System.CodeDom.dll
+E:\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+E:\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\server\project\bin\Debug\net8.0\System.Text.Json.dll
+E:\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+E:\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+E:\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+E:\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+E:\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+E:\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+E:\server\project\obj\Debug\net8.0\staticwebassets.build.json
+E:\server\project\obj\Debug\net8.0\staticwebassets.development.json
+E:\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+E:\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+E:\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+E:\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+E:\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+E:\server\project\obj\Debug\net8.0\project.dll
+E:\server\project\obj\Debug\net8.0\refint\project.dll
+E:\server\project\obj\Debug\net8.0\project.pdb
+E:\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+E:\server\project\obj\Debug\net8.0\ref\project.dll
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+E:\לחנוכה\server\project\bin\Debug\net8.0\appsettings.Development.json
+E:\לחנוכה\server\project\bin\Debug\net8.0\appsettings.json
+E:\לחנוכה\server\project\bin\Debug\net8.0\project.exe
+E:\לחנוכה\server\project\bin\Debug\net8.0\project.deps.json
+E:\לחנוכה\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+E:\לחנוכה\server\project\bin\Debug\net8.0\project.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\project.pdb
+E:\לחנוכה\server\project\bin\Debug\net8.0\AutoMapper.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Azure.Core.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Azure.Identity.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Humanizer.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\JwtTokenAuthentication.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ReferenceEntities.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.ClientModel.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.CodeDom.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Text.Json.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\לחנוכה\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\לחנוכה\server\project\obj\Debug\net8.0\staticwebassets.build.json
+E:\לחנוכה\server\project\obj\Debug\net8.0\staticwebassets.development.json
+E:\לחנוכה\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\לחנוכה\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+E:\לחנוכה\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+E:\לחנוכה\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+E:\לחנוכה\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\לחנוכה\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.dll
+E:\לחנוכה\server\project\obj\Debug\net8.0\refint\project.dll
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.pdb
+E:\לחנוכה\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+E:\לחנוכה\server\project\obj\Debug\net8.0\ref\project.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\appsettings.Development.json
+E:\פרויקט\server\project\bin\Debug\net8.0\appsettings.json
+E:\פרויקט\server\project\bin\Debug\net8.0\project.exe
+E:\פרויקט\server\project\bin\Debug\net8.0\project.deps.json
+E:\פרויקט\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+E:\פרויקט\server\project\bin\Debug\net8.0\project.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\project.pdb
+E:\פרויקט\server\project\bin\Debug\net8.0\AutoMapper.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Azure.Core.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Azure.Identity.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Humanizer.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\JwtTokenAuthentication.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ReferenceEntities.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.ClientModel.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.CodeDom.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Text.Json.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\פרויקט\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+E:\פרויקט\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+E:\פרויקט\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+E:\פרויקט\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+E:\פרויקט\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.build.json
+E:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.development.json
+E:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+E:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+E:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+E:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\פרויקט\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+E:\פרויקט\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+E:\פרויקט\server\project\obj\Debug\net8.0\project.dll
+E:\פרויקט\server\project\obj\Debug\net8.0\refint\project.dll
+E:\פרויקט\server\project\obj\Debug\net8.0\project.pdb
+E:\פרויקט\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+E:\פרויקט\server\project\obj\Debug\net8.0\ref\project.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\refint\project.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.pdb
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\appsettings.Development.json
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\appsettings.json
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\project.exe
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\project.deps.json
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\project.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\project.pdb
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\AutoMapper.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Azure.Core.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Azure.Identity.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Humanizer.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\JwtTokenAuthentication.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ReferenceEntities.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.ClientModel.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.CodeDom.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Text.Json.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\staticwebassets.build.json
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\staticwebassets.development.json
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+E:\לחנוכה\Api\פרויקט גרסאות\16.01.2025\server\project\obj\Debug\net8.0\ref\project.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\EPPlus.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\appsettings.Development.json
+F:\פרויקט\server\project\bin\Debug\net8.0\appsettings.json
+F:\פרויקט\server\project\bin\Debug\net8.0\project.exe
+F:\פרויקט\server\project\bin\Debug\net8.0\project.deps.json
+F:\פרויקט\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+F:\פרויקט\server\project\bin\Debug\net8.0\project.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\project.pdb
+F:\פרויקט\server\project\bin\Debug\net8.0\AutoMapper.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Azure.Core.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Azure.Identity.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\EPPlus.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\EPPlus.Interfaces.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Humanizer.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\JwtTokenAuthentication.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ReferenceEntities.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.ClientModel.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.CodeDom.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Text.Json.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\פרויקט\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+F:\פרויקט\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+F:\פרויקט\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+F:\פרויקט\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+F:\פרויקט\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+F:\פרויקט\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+F:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.build.json
+F:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.development.json
+F:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+F:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+F:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+F:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+F:\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+F:\פרויקט\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+F:\פרויקט\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+F:\פרויקט\server\project\obj\Debug\net8.0\project.dll
+F:\פרויקט\server\project\obj\Debug\net8.0\refint\project.dll
+F:\פרויקט\server\project\obj\Debug\net8.0\project.pdb
+F:\פרויקט\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+F:\פרויקט\server\project\obj\Debug\net8.0\ref\project.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\פרויקט\server\project\bin\Debug\net8.0\Serilog.Sinks.File.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\appsettings.Development.json
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\appsettings.json
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\project.exe
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\project.deps.json
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\project.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\project.pdb
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\AutoMapper.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Azure.Core.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Azure.Identity.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\EPPlus.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\EPPlus.Interfaces.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Humanizer.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\JwtTokenAuthentication.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ReferenceEntities.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.AspNetCore.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Serilog.Sinks.File.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.ClientModel.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.CodeDom.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Text.Json.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+F:\פרויקט\פרויקט\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.build.json
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.development.json
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.dll
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\refint\project.dll
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.pdb
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+F:\פרויקט\פרויקט\server\project\obj\Debug\net8.0\ref\project.dll
+E:\server\project\bin\Debug\net8.0\EPPlus.dll
+E:\server\project\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\server\project\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\server\project\bin\Debug\net8.0\JwtTokenAuthentication.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\server\project\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\server\project\bin\Debug\net8.0\ReferenceEntities.dll
+E:\server\project\bin\Debug\net8.0\Serilog.dll
+E:\server\project\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\server\project\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\server\project\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\server\project\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\server\project\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\server\project\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\server\project\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\server\project\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\server\project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\appsettings.Development.json
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\appsettings.json
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\project.exe
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\project.deps.json
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\project.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\project.pdb
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\AutoMapper.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Azure.Core.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Azure.Identity.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\EPPlus.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\EPPlus.Interfaces.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Humanizer.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\JwtTokenAuthentication.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ReferenceEntities.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.ClientModel.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.CodeDom.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Text.Json.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets.build.json
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets.development.json
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.dll
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\refint\project.dll
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.pdb
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+E:\פרויקט סופי\server\project\obj\Debug\net8.0\ref\project.dll
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.AssemblyInfoInputs.cache
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.AssemblyInfo.cs
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.csproj.CoreCompileInputs.cache
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.dll
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\refint\project.dll
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.pdb
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\appsettings.Development.json
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\appsettings.json
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\project.exe
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\project.deps.json
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\project.runtimeconfig.json
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\project.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\project.pdb
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\AutoMapper.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Azure.Core.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Azure.Identity.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\EPPlus.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Humanizer.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\JwtTokenAuthentication.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ReferenceEntities.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.ClientModel.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.CodeDom.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Memory.Data.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Text.Json.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\פרויקט סופי\server\project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets.build.json
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets.development.json
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets\msbuild.project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets\msbuild.build.project.props
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.project.props
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.project.props
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\staticwebassets.pack.json
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\scopedcss\bundle\project.styles.css
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.csproj.Up2Date
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\project.genruntimeconfig.cache
+D:\פרויקט סופי\server\project\obj\Debug\net8.0\ref\project.dll

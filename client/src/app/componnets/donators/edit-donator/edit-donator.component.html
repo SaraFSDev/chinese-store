@@ -1,0 +1,56 @@
+<form [formGroup]="form" (ngSubmit)="saveUpdateForm()">
+    <!-- שם -->
+    <div>
+        <mat-form-field class="example-full-width">
+            <mat-label>name</mat-label>
+            <input type="text" class="form-control" formControlName="name" matInput required><br />
+        </mat-form-field>
+        <div *ngIf="form.controls['name'].errors && form.controls['name'].touched">
+            <span *ngIf="form.controls['name'].errors['required']">
+                <mat-error class="error">Name is required</mat-error>
+            </span>
+            <span *ngIf="form.controls['name'].errors['minlength']">
+                <mat-error class="error">The name will contain at least 2 characters</mat-error>
+            </span>
+            <span *ngIf="form.controls['name'].errors['maxlength']">
+                <mat-error class="error">The name will contain up to 50 characters</mat-error>
+            </span>
+        </div>
+    </div>
+
+    <!-- פלאפון -->
+    <div>
+        <mat-form-field class="example-full-width">
+            <mat-label>phone</mat-label>
+            <input type="text" class="form-control" formControlName="phone" matInput required><br />
+        </mat-form-field>
+        <div *ngIf="form.controls['phone'].errors && form.controls['phone'].touched">
+            <span *ngIf="form.controls['phone'].errors['required']">
+                <mat-error class="error">Phone is required</mat-error>
+            </span>
+            <span *ngIf="form.controls['phone'].errors['pattern']">
+                <mat-error class="error">The phone number is invalid</mat-error>
+            </span>
+        </div>
+    </div>
+
+    <!-- אימייל -->
+    <div>
+        <mat-form-field class="example-full-width">
+            <mat-label>email</mat-label>
+            <input type="email" class="form-control" formControlName="email" matInput><br />
+        </mat-form-field>
+        <div *ngIf="form.controls['email'].errors && form.controls['email'].touched">
+            <span *ngIf="form.controls['email'].errors['email']">
+                <mat-error class="error">The email address is invalid</mat-error>
+            </span>
+        </div>
+    </div>
+
+    <!-- <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">Send</button> -->
+    <div class="button-container">
+        <button type="submit" class="small-button" [disabled]="!form.valid">Send</button>
+        <!-- כפתור ביטול -->
+        <button mat-flat-button color="primary" class="small-button" (click)="closeDialog()">ביטול</button>
+    </div>
+</form>

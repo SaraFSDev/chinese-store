@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\repositories\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|solutionrelative:project\\repositories\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\repositories\\donatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|solutionrelative:project\\repositories\\donatorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\services\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|solutionrelative:project\\services\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|solutionrelative:project\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|solutionrelative:project\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|solutionrelative:project\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|e:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3CA5C57-60A8-4A1C-87F0-56EF22C50E94}|project\\project.csproj|solutionrelative:project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonatorRepository.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Repositories\\DonatorRepository.cs",
+              "RelativeDocumentMoniker": "project\\Repositories\\DonatorRepository.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Repositories\\DonatorRepository.cs",
+              "RelativeToolTip": "project\\Repositories\\DonatorRepository.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAArwEoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:15:42.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GiftRepository.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Repositories\\GiftRepository.cs",
+              "RelativeDocumentMoniker": "project\\Repositories\\GiftRepository.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Repositories\\GiftRepository.cs",
+              "RelativeToolTip": "project\\Repositories\\GiftRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAArwDkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:12:32.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiftService.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Services\\GiftService.cs",
+              "RelativeDocumentMoniker": "project\\Services\\GiftService.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Services\\GiftService.cs",
+              "RelativeToolTip": "project\\Services\\GiftService.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAuwKUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:12:12.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GiftController.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Controllers\\GiftController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\GiftController.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Controllers\\GiftController.cs",
+              "RelativeToolTip": "project\\Controllers\\GiftController.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAuwMoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:11:39.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "project\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAALUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:31:11.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "project\\Services\\UserService.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Services\\UserService.cs",
+              "RelativeToolTip": "project\\Services\\UserService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:27:46.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "project\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\server\\project\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "project\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:27:31.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

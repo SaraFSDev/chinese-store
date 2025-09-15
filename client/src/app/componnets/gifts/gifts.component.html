@@ -1,0 +1,42 @@
+<mat-form-field appearance="fill">
+  <mat-label>Sort By</mat-label>
+  <mat-select [(value)]="sortBy">
+    <mat-option value="Price">Price</mat-option>
+    <mat-option value="Category">Category</mat-option>
+  </mat-select>
+</mat-form-field>
+
+
+
+<mat-form-field appearance="fill">
+  <mat-label>Order</mat-label>
+  <mat-select [(value)]="order">
+    <mat-option value="asc">Ascending</mat-option>
+    <mat-option value="desc">Descending</mat-option>
+  </mat-select>
+</mat-form-field>
+
+<button mat-raised-button (click)="sort()">Sort</button>
+<div class="gifts-container">
+  <mat-card *ngFor="let gift of gifts" class="gift-card">
+    <mat-card-header>
+      <mat-card-title class="name">{{ gift.name }}</mat-card-title>
+    </mat-card-header>
+    
+    <mat-card-content>
+      <p>מחיר: {{ gift.price | currency}} ש"ח</p>
+      <img *ngIf="gift.image" [src]="'/images/' + gift.image + '.png'"
+      style="width: 260px; height: 250px; object-fit: cover;" 
+        />
+        <!-- style="width: 100px; height: 100px; object-fit: cover;"  -->
+      <span *ngIf="!gift.image">No image</span>
+      <!-- <button  (click)="addToBasket(gift.id)" *ngIf="!gift.isLotteryCompleted"> -->
+        <!-- <mat-icon>add</mat-icon> -->
+        <mat-icon class=icon (click)="addToBasket(gift.id)" *ngIf="!gift.isLotteryCompleted">add_shopping_cart</mat-icon>
+      <!-- </button> -->
+      <span *ngIf="gift.isLotteryCompleted">Lottery completed</span>
+    </mat-card-content>
+  </mat-card>
+
+</div>
+

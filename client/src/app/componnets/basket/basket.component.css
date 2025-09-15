@@ -1,0 +1,261 @@
+/* 
+.basket-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+
+.empty-basket {
+  text-align: center;
+  background-color: #f0f0f0;
+  border: 1px dashed #ccc;
+}
+
+
+.basket-item {
+  margin-bottom: 15px;
+}
+
+
+.mat-card {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+
+.gift-name {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+
+.mat-card-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+.quantity-control {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
+.quantity-control button {
+  min-width: 36px;
+}
+
+
+.invisibleInput {
+  width: 40px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+
+.invisibleInput:focus {
+  outline: none;
+  border-color: #3f51b5;
+  box-shadow: 0 0 5px #3f51b5;
+}
+
+
+
+ */
+.basket-container {
+  max-width: 800px;  /* הגדל את רוחב הקונטיינר */
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.mat-card {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  width: 100%;        /* תן לכרטיסים להתאים לרוחב החדש */
+  min-height: 180px;  /* הגדל את הגובה של הכרטיסים */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.empty-basket {
+  text-align: center;
+  background-color: #f0f0f0;
+  border: 1px dashed #ccc;
+  padding: 20px; /* מוסיף padding לשיפור המראה */
+}
+
+.basket-item {
+  margin-bottom: 20px;  /* הגדל את המרווח בין הכרטיסים */
+  width: 100%;          /* תן לכרטיסים להתאים לרוחב */
+}
+
+.gift-name {
+  font-size: 24px; /* גדל הגודל של שם המוצר */
+  font-weight: bold;
+  text-align: center;
+}
+
+.p {
+  margin: 5px 0;
+  font-size: 18px;  /* הגדל את גודל הפונט של הנתונים */
+}
+
+.mat-card-header, .mat-card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* ממקם את הטקסט במרכז */
+  text-align: center;
+}
+
+.mat-card-actions {
+  display: flex;
+  justify-content: flex-end; /* כפתור המחיקה יהיה בצד ימין */
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.quantity-control {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center; /* מרכז את הכמות */
+}
+
+.quantity-control button {
+  min-width: 36px;
+}
+
+.invisibleInput {
+  width: 50px; /* הגדל את הכמות */
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.invisibleInput:focus {
+  outline: none;
+  border-color: #3f51b5;
+  box-shadow: 0 0 5px #3f51b5;
+}
+
+/* הוספת אייקון למחיקה */
+.mat-icon {
+  cursor: pointer;
+  font-size: 24px;
+  color: #f44336;  /* אדום לאייקון המחיקה */
+}
+
+/* --- */
+
+
+.basket-container {
+  max-width: 800px;  /* הגדל את הרוחב של הקונטיינר */
+  margin: 20px auto;
+  padding: 20px;     /* הוספתי padding כדי לתת יותר מקום פנוי */
+}
+
+.mat-card {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  width: 100%;        /* מאפשר לכרטיסים להתאים לרוחב החדש */
+  min-height: 200px;  /* הגדל את הגובה של הכרטיסים */
+}
+
+.empty-basket {
+  text-align: center;
+  background-color: #f0f0f0;
+  border: 1px dashed #ccc;
+  padding: 20px; /* מוסיף padding לשיפור המראה */
+}
+
+.basket-item {
+  margin-bottom: 20px;  /* הגדל את המרווח בין הכרטיסים */
+  display: flex;
+  justify-content: center; /* מרכז את הכרטיס בתוך הקונטיינר */
+}
+
+.gift-name {
+  font-size: 24px; /* גדל הגודל של שם המוצר */
+  font-weight: bold;
+  text-align: center;
+}
+
+.p {
+  margin: 5px 0;
+  font-size: 18px;  /* הגדל את גודל הפונט של הנתונים */
+}
+
+.mat-card-header, .mat-card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* ממקם את הטקסט במרכז */
+  text-align: center;
+}
+
+.mat-card-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.quantity-control {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.quantity-control button {
+  min-width: 36px;
+}
+
+.invisibleInput {
+  width: 50px; /* הגודל גדל כדי להיות יותר ברור */
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.invisibleInput:focus {
+  outline: none;
+  border-color: #3f51b5;
+  box-shadow: 0 0 5px #3f51b5;
+}
+
+.pay {
+  margin-top: 20px;
+  background-color: #f44336; /* צבע אדום */
+  color: red;              /* צבע טקסט לבן */
+  font-weight: bold;         /* טקסט מודגש */
+  width: 29%;               /* כפתור מלא-רוחב */
+  padding: 12px 0;           /* ריפוד פנימי */
+  border-radius: 8px;        /* קצוות מעוגלים */
+  text-align: center;        /* ממרכז את הטקסט בכפתור */
+margin-left:36%;
+}
+
+.pay:hover {
+  background-color: #d32f2f; /* צבע אדום כהה בעת ריחוף */
+}

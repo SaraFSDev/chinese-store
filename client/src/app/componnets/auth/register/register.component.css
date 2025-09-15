@@ -1,0 +1,88 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+
+
+form {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 450px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+
+input.mat-input-element {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+.mat-form-field.ng-invalid.ng-touched .mat-form-field-ripple {
+  background-color: #e74c3c;
+}
+
+
+button:hover:not(:disabled) {
+  background-color: #304ffe;
+}
+
+
+mat-form-field {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+
+.register-form {
+  width: 100%;
+  max-width: 400px;
+}
+
+
+.full-width {
+  width: 100%;
+}
+
+
+mat-error {
+  font-size: 14px;
+  color: #e74c3c;
+  font-weight: 500;
+  margin-top: 4px;
+}
+
+
+.error {
+  font-weight: bold;
+  color: #e74c3c;
+}
+
+
+
+
+mat-card {
+  padding: 16px;
+}
+

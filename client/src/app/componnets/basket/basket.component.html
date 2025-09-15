@@ -1,0 +1,83 @@
+<!-- 
+
+<div class="basket-container">
+  <ng-container *ngIf="gifts.length === 0; else giftList">
+    <mat-card class="empty-basket">
+      <mat-card-content>הסל שלך ריק</mat-card-content>
+    </mat-card>
+  </ng-container>
+
+  <ng-template #giftList>
+    <div *ngFor="let gift of gifts; let i = index" class="basket-item">
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title class="gift-name">שם המוצר: {{ gift.giftName }}</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <p class="p">קוד: {{ gift.giftId }}</p>
+          <p class="p">מחיר: {{ gift.giftPrice }} ש"ח</p>
+          <p class="p">כמות: {{ gift.quantity }}</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <img mat-card-image />
+          <button mat-raised-button color="warn" (click)="deleteBasket(gift.giftId)">
+            מחיקה
+          </button>
+          <div class="quantity-control">
+            <button mat-button color="primary" (click)="decreaseQuantity(gift.giftId)">-</button>
+            <input type="text" [(ngModel)]="gift.quantity" name="quantity" class="invisibleInput" />
+            
+            <button mat-button color="primary" (click)="increaseQuantity(gift.giftId)">+</button>
+          </div>
+        </mat-card-actions>
+      </mat-card>
+    </div>
+  </ng-template>
+  <button mat-raised-button color="primary" (click)="payment()">to payment</button>
+
+</div> -->
+
+<h1>Basket</h1>
+<div class="basket-container">
+  <ng-container *ngIf="gifts.length === 0; else giftList">
+    <mat-card class="empty-basket">
+      <mat-card-content>Your basket is empty</mat-card-content>
+    </mat-card>
+  </ng-container>
+
+
+  <ng-template #giftList>
+    <div *ngFor="let gift of gifts; let i = index" class="basket-item">
+      <mat-card>
+        <mat-card-header>
+          <mat-card-title class="gift-name">{{ gift.giftName }}</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+          <!-- <p class="p">Gift: {{ gift.giftName }}</p> -->
+          <p class="p">Code: {{ gift.giftId }}</p>
+          <p class="p">Price: {{ gift.giftPrice }}</p>
+          <p class="p">Quantity: {{ gift.quantity }}</p>
+        </mat-card-content>
+        <mat-card-actions>
+          <button mat-icon-button color="warn" (click)="deleteBasket(gift.giftId)">
+            <mat-icon>delete</mat-icon>
+          </button>
+
+          <!-- <button mat-raised-button color="warn" (click)="deleteBasket(gift.giftId)">
+            Delete
+          </button> -->
+          <div class="quantity-control">
+            <button mat-button color="primary" (click)="decreaseQuantity(gift.giftId)">-</button>
+            <input type="text" [(ngModel)]="gift.quantity" name="quantity" class="invisibleInput" />
+            <button mat-button color="primary" (click)="increaseQuantity(gift.giftId)">+</button>
+          </div>
+        </mat-card-actions>
+      </mat-card>
+    </div>
+    <button class="pay" mat-raised-button  (click)="payment()">to payment</button>
+  </ng-template>
+</div>
+
+
+
+

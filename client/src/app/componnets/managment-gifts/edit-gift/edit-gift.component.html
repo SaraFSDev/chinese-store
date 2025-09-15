@@ -1,0 +1,85 @@
+<mat-dialog-content>
+  <h2 mat-dialog-title>Edit a gift</h2>
+  <form [formGroup]="form" (ngSubmit)="saveEditForm()">
+    <!-- שם -->
+    <div>
+      <mat-form-field class="example-full-width">
+        <mat-label>name</mat-label>
+        <input type="text" class="form-control" formControlName="name" matInput required><br />
+      </mat-form-field>
+      @if (form.controls['name'].errors && form.controls['name'].touched) {
+      <span *ngIf="form.controls['name'].errors['required']">
+        <mat-error class="error">name is <strong>required</strong> </mat-error>
+      </span>
+      <span *ngIf="form.controls['name'].errors['minlength']">
+        <mat-error class="error">The gift name will contain at least 2 characters</mat-error>
+      </span>
+      <span *ngIf="form.controls['name'].errors['maxlength']">
+        <mat-error class="error">The gift name will contain up to 50 characters</mat-error>
+      </span>
+      }
+    </div>
+
+
+    <!-- קטגוריה -->
+    <mat-form-field class="example-full-width">
+      <mat-label>category</mat-label>
+      <select matNativeControl formControlName="category" required>
+        <option value="">Choose a category</option>
+        <option *ngFor="let categor of categories" [value]="categor.name">{{categor.name}}</option>
+      </select>
+      <mat-error *ngIf="form.controls['category'].hasError('required')">
+        Please choose a category
+      </mat-error>
+    </mat-form-field>
+
+
+    <!-- תורם -->
+    <mat-form-field class="example-full-width">
+      <mat-label>Donator</mat-label>
+      <select matNativeControl formControlName="donator" required>
+        <option value="">Choose a Donator</option>
+        <option *ngFor="let donator of donators" [value]="donator.name">{{donator.name}}</option>
+      </select>
+      <mat-error *ngIf="form.controls['donator'].hasError('required')">
+        Please choose a donator
+      </mat-error>
+    </mat-form-field>
+
+
+    <!-- עלות מתנה -->
+
+
+    <mat-form-field class="example-full-width">
+      <mat-label>price</mat-label>
+      <input type="text" class="form-control" formControlName="price" matInput required><br />
+      @if(form.controls['price'].errors && form.controls['price'].touched){
+      <span *ngIf="form.controls['price'].errors['required']"><mat-error class="error">price is
+          <strong>required</strong></mat-error></span>
+      <span *ngIf="form.controls['price'].errors['max']">עלות הכרטיס לא תפחת מ-10 שח</span>
+      <span *ngIf="form.controls['price'].errors['max']">עלות הכרטיס לא תעלה על 150 שח</span>
+      }
+    </mat-form-field>
+
+
+    <!-- תמונה -->
+    <div>
+      <mat-form-field class="example-full-width">
+        <mat-label>image</mat-label>
+        <input type="text" class="form-control" formControlName="image" matInput required><br />
+      </mat-form-field>
+      @if (form.controls['image'].hasError('required') && form.controls['price'].touched){
+      <mat-error class="error">Image is required </mat-error>
+      }
+    </div>
+
+
+  </form>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>ביטול</button>
+  <button mat-button (click)="saveEditForm()">שמור</button>
+</mat-dialog-actions>
+
+
+

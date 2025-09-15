@@ -1,0 +1,36 @@
+<mat-toolbar>
+    <span class="spacer"></span>
+
+    <nav>
+        <a mat-button routerLink="/gifts" routerLinkActive="active">gifts</a>
+        <a mat-button routerLink="/basket" routerLinkActive="active">basket</a>
+        <ng-container *ngIf="isAdmin">
+            <a mat-button routerLink="/magementGifts" routerLinkActive="active">manage-gifts</a>
+            <a mat-button routerLink="/donators" routerLinkActive="active">manage-donators</a>
+            <a mat-button routerLink="/purchaseGift" routerLinkActive="active">manage-purchases</a>
+        </ng-container>
+    </nav>
+
+    <span class="spacer"></span>
+
+    <ng-container *ngIf="!isAuthenticated">
+        <a mat-icon-button routerLink="/login">
+            <mat-icon>person</mat-icon>
+        </a>
+        <a mat-icon-button routerLink="/register">
+            <mat-icon>person_add</mat-icon>
+        </a>
+    </ng-container>
+
+    <ng-container *ngIf="isAuthenticated">
+        <button mat-icon-button (click)="logout()">
+            <mat-icon>logout</mat-icon>
+        </button>
+    </ng-container>
+</mat-toolbar>
+
+<footer>
+    <p>&copy; By Sari Klein and Miri Salant.</p>
+</footer>
+
+<router-outlet/>

@@ -1,0 +1,49 @@
+.donator-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+  }
+  
+  .donator-name {
+    font-size: 36px;
+    color: #3f51b5; /* צבע כחול כהה */
+    margin-bottom: 20px;
+  }
+  
+  .gift-container {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .gift-name {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .gift-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  /* עיצוב כפתור הביטול */
+  .cancel-button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-transform: uppercase; /* מגדיל את האותיות */
+    border-radius: 4px; /* עיגול קל לפינות */
+  }
+  
+  .cancel-button:hover {
+    background-color: #d32f2f; /* צבע אדום כהה בעת hover */
+    color: white; /* טקסט לבן בעת hover */
+  }
+  

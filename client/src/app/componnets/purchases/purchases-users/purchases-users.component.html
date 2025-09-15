@@ -1,0 +1,38 @@
+<h2 mat-dialog-title>Buyers of the Gift</h2>
+@if(buyers.length > 0){
+<mat-dialog-content>
+    <table mat-table [dataSource]="buyers" class="mat-elevation-z8">
+
+
+        <!-- Username  -->
+        <ng-container matColumnDef="username">
+            <th mat-header-cell *matHeaderCellDef> Username </th>
+            <td mat-cell *matCellDef="let buyer"> {{ buyer.userName }} </td>
+        </ng-container>
+
+
+        <!-- Email  -->
+        <ng-container matColumnDef="email">
+            <th mat-header-cell *matHeaderCellDef> Email </th>
+            <td mat-cell *matCellDef="let buyer"> {{ buyer.userEmail }} </td>
+        </ng-container>
+
+
+        <!-- Quantity  -->
+        <ng-container matColumnDef="quantity">
+            <th mat-header-cell *matHeaderCellDef> Quantity </th>
+            <td mat-cell *matCellDef="let buyer"> {{ buyer.quantity }} </td>
+        </ng-container>
+
+
+        <tr mat-header-row *matHeaderRowDef="['username', 'email', 'quantity']"></tr>
+        <tr mat-row *matRowDef="let row; columns: ['username', 'email', 'quantity'];"></tr>
+    </table>
+</mat-dialog-content>
+}
+@else {
+<p>No buyers found for this gift.</p>
+}
+<mat-dialog-actions>
+    <button mat-button (click)="closeDialog()">Close</button>
+</mat-dialog-actions>

@@ -1,0 +1,72 @@
+/* .mat-column-delete,
+.mat-column-edit {
+  text-align: right; 
+  padding-right: 8px;
+}
+
+
+.mat-elevation-z8 {
+  margin: 16px 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.demo-table th,
+.demo-table td {
+  padding: 8px 16px;
+} */
+
+.mat-column-delete,
+.mat-column-edit {
+  text-align: right;
+  padding-right: 8px;
+}
+
+
+.mat-elevation-z8 {
+  margin: 16px 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+
+.demo-table th,
+.demo-table td {
+  padding: 8px 16px;
+}
+
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+button:hover {
+  background-color: #8c948c;
+}
+
+.lottery {
+  font-size: 18px; /* גודל טקסט גדול יותר */
+  padding: 12px 24px; /* ריפוד פנימי גדול יותר */
+  border-radius: 8px; /* קצוות מעוגלים */
+  min-width: 280px; /* רוחב מינימלי של הכפתור */
+}
+
+#search{
+  font-size: 18px; /* גודל טקסט גדול יותר */
+  padding: 12px 24px; /* ריפוד פנימי גדול יותר */
+  border-radius: 8px; /* קצוות מעוגלים */
+  min-width: 200px;
+  min-height: 200vh;
+}

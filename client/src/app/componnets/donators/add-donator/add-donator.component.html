@@ -1,0 +1,46 @@
+<h1>Add donator</h1>
+<form [formGroup]="form" (ngSubmit)="saveForm()">
+    
+    <button mat-icon-button class="close-button" (click)="closeDialog()">
+        <mat-icon>close</mat-icon>
+      </button>
+    <!-- שם -->
+    <div>
+        <mat-form-field class="example-full-width">
+            <mat-label>name</mat-label>
+            <input type="text" class="form-control" formControlName="name" matInput required><br />
+        </mat-form-field>
+        <span *ngIf="form.controls['name'].errors && form.controls['name'].touched">
+            <mat-error class="error" *ngIf="form.controls['name'].errors['required']">Name is required</mat-error>
+            <mat-error class="error" *ngIf="form.controls['name'].errors['minlength']">The name will contain at least 2 characters</mat-error>
+            <mat-error class="error" *ngIf="form.controls['name'].errors['maxlength']">The name will contain up to 50 characters</mat-error>
+        </span>
+    </div>
+
+    <!-- פלאפון -->
+    <div>
+        <mat-form-field class="example-full-width">
+            <mat-label>phone</mat-label>
+            <input type="text" class="form-control" formControlName="phone" matInput required><br />
+        </mat-form-field>
+        <span *ngIf="form.controls['phone'].errors && form.controls['phone'].touched">
+            <mat-error class="error" *ngIf="form.controls['phone'].errors['required']">Phone is required</mat-error>
+            <mat-error class="error" *ngIf="form.controls['phone'].errors['pattern']">The phone number is invalid</mat-error>
+        </span>
+    </div>
+
+    <!-- אימייל -->
+    <mat-form-field class="example-full-width">
+        <mat-label>email</mat-label>
+        <input type="text" class="form-control" formControlName="email" matInput><br />
+    </mat-form-field><br />
+    <span *ngIf="form.controls['email'].errors">
+        <mat-error class="error" *ngIf="form.controls['email'].errors['email']">The email address is invalid.</mat-error>
+    </span>
+
+    <div class="button-container">
+        <button type="submit" class="small-button" [disabled]="!form.valid">שליחה</button>
+        <!-- כפתור ביטול -->
+        <!-- <button mat-flat-button color="primary" class="small-button" (click)="closeDialog()">ביטול</button> -->
+    </div>
+</form>

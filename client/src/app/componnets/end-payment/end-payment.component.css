@@ -1,0 +1,40 @@
+/* עיצוב הכללי של הדף */
+:host {
+    display: block;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f4f8;
+  }
+  
+  /* עיצוב עבור כרטיס ההודעה */
+  .container {
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* עיצוב האייקון */
+  .success-icon {
+    font-size: 3rem;
+    color: #28a745;
+    margin-bottom: 15px;
+  }
+  
+  /* עיצוב ההודעה העיקרית */
+  .main-message {
+    font-size: 2rem;
+    color: #28a745;
+    font-weight: 700;
+  }
+  
+  /* עיצוב ההודעה המשנית */
+  .thank-you-message {
+    font-size: 1rem;
+    color: #6c757d;
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,51 @@
+<!-- <h1>Purchases</h1>
+<mat-toolbar>
+    <div>
+        <button mat-button (click)="sortGifts('price')">Sort by the most expensive gift</button>
+        <button mat-button (click)="sortGifts('purchases')">Sort by the most purchased gift Purchases</button>
+    </div>
+</mat-toolbar><br />
+<div class="gift-card-container">
+    <mat-card *ngFor="let gift of gifts;" (click)="showDetails(gift.id)">
+        <mat-card-header>
+            <mat-card-title>{{ gift.name }}</mat-card-title>
+        </mat-card-header>
+        <mat-card-content>
+            <div class="gift-image">
+                <img *ngIf="gift.image" [src]="'/images/' + gift.image + '.JPG'" width="100%" height="200px">
+            </div>
+            <p>Purchases: {{ gift.purchases}}</p>
+            <p>Price: {{ gift.price | currency: 'ILS' }}</p>
+        </mat-card-content>
+    </mat-card>
+</div>
+
+ -->
+ <mat-toolbar>
+     <div>
+         <button mat-button (click)="sortGifts('Price')">Sort by the most expensive gift</button>
+         <button mat-button (click)="sortGifts('purchases')">Sort by the most purchased gift Purchases</button>
+     </div>
+ </mat-toolbar><br />
+ <div class="gift-card-container">
+     <mat-card *ngFor="let gift of gifts;" (click)="showDetails(gift.id)">
+         <mat-card-header>
+             <mat-card-title>{{ gift.name }}</mat-card-title>
+         </mat-card-header>
+         <mat-card-content>
+             <div class="gift-image">
+                 <img *ngIf="gift.image" [src]="'/images/' + gift.image + '.png'" width="100%" height="200px">
+             </div>
+             <p>Purchases: {{ gift.purchases}}</p>
+             <p>Price: {{ gift.price | currency }}</p>
+         </mat-card-content>
+     </mat-card>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
