@@ -1,4 +1,4 @@
-# chinese-store
+# chinese-auction
 
 A raffle-based online store system designed to manage gifts, donors, purchases, and raffles in one unified platform.  
 Built with **Angular (frontend)**, **C#/.NET Core (backend)**, and **SQL Server (database)**.
